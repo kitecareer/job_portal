@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="W605" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="parser" />
+          <option value="main.PDF2Text" />
+          <option value="pdftables_api" />
+          <option value="pdftotext" />
+          <option value="nanonets.NANONETSOCR" />
+          <option value="ik.v2" />
+          <option value="ik.ncols" />
+          <option value="xlsxwriter.workbook.sheet_by_index" />
+          <option value="l.fields" />
+          <option value="l.ModelSchema" />
+          <option value="l.Marshmallow" />
+          <option value="l.UserSchema" />
+          <option value="l.flaskext" />
+          <option value="l.*" />
+          <option value="main.flask_sqlalchemy" />
+          <option value="config.db.Column" />
+          <option value="jobportal.main.response" />
+          <option value="database.get_db" />
+          <option value="api.fastapi_utils" />
+          <option value="Quiz.main.question" />
+          <option value="datetime.inspect" />
+          <option value="jwt.decode" />
+          <option value="jwt.encode" />
+          <option value="Quiz.l.flask_jwt_extended" />
+          <option value="Quiz.main.marks" />
+          <option value="pr.webdriver_manager" />
+          <option value="chromedriver_autoinstaller" />
+          <option value="speech_recognition" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
